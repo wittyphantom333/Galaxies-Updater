@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=SWG Launcher
+Exec=java -jar /home/swg/swg-main/gm/GalaxiesManager.jar
+Type=Application
+Icon=gnome-panel-launcher
+Name[en_US]=Galaxies Manager
+Path=/home/swg/swg-main/gm/
